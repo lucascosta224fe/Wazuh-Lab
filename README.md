@@ -82,7 +82,7 @@ Abra com o notepad no modo Administrador e mude o IP manualmente se necessário:
   </client>
 ```
 
-<h3>Ubuntu Agent:</h3>
+<h4>Ubuntu Agent:</h4>
 
 Instale os seguintes pacotes:
 ```
